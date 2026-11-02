@@ -1,0 +1,22 @@
+{
+  "version": "sweep",
+  "dt": 0.03333333333333333,
+  "tau": 0.1,
+  "hidden_size": 32,
+  "grid_size": 7,
+  "n_retino": 49,
+  "sigma": 1.0,
+  "training_set": "monkey",
+  "pretrained": true,
+  "frozen_integrator": true,
+  "ramp_lambda": 30.0,
+  "disp_lambda": 1.0,
+  "alpha": 0.92,
+  "beta": "0.125",
+  "embed_flatness": 1.0,
+  "embed_hidden": 32,
+  "embed_layers": 2,
+  "training": {
+    "lr": 0.001
+  }
+}

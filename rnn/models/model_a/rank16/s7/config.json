@@ -1,0 +1,17 @@
+{
+  "version": "rnn_readout",
+  "dt": 0.03333333333333333,
+  "tau": 0.1,
+  "hidden_size": 32,
+  "mlp_hidden": 0,
+  "mlp_layers": 0,
+  "mlp_flatness": 1.0,
+  "grid_size": 7,
+  "n_retino": 49,
+  "sigma": 1.0,
+  "training_set": "monkey",
+  "rank": 16,
+  "training": {
+    "lr": 0.001
+  }
+}

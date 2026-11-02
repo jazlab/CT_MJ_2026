@@ -1,0 +1,7 @@
+# Python 3.10 (tested environment)
+numpy==1.26.2
+scipy==1.11.4
+pandas==2.1.4
+matplotlib==3.8.2
+seaborn==0.13.1
+torch>=2.0            # RNN models (Figs. 4, 5g; S4.x, S5.3): CPU is enough
